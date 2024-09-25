@@ -1,0 +1,10 @@
+document.write("<h1>Зимнее утро</h1>");
+document.write("<h3>Александр Сергеевич Пушкин</h3>");
+document.write("");
+document.write("<br>Мороз и солнце; день чудесный!");
+document.write("<br>Еще ты дремлешь, друг прелестный —");
+document.write("<br>Пора, красавица, проснись:");
+document.write("<br>Открой сомкнуты негой взоры");
+document.write("<br>Навстречу северной Авроры,");
+document.write("<br>Звездою севера явись!");
+document.write("<br><h2>...</h2>");
